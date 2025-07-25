@@ -1,0 +1,15 @@
+# Archivos de modelos y checkpoints pesados
+ProcesamientoDeLenguajeNaturalModerno/results/
+*.safetensors
+*.pt
+*.h5
+*.pkl
+*.model
+*.bin
+
+# Otros archivos pesados comunes
+*.csv
+*.json
+data/
+datasets/
+models/
